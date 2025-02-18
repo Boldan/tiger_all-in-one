@@ -1,0 +1,23 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.16.3
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Thu Feb  6 11:55:04 2025"
+  rime_version: 1.11.2
+patch:
+  schema_list:
+    - {schema: tiger_code}
+    - {schema: tiger_codes}
+    - {schema: tiger_oni}
+    - {schema: tiger_phrase}
+    - {schema: tiger_phrases}
+    - {schema: easy_en}
+    - {schema: tigress}
+    - {schema: tiger}
+    - {schema: PY_c}
+    - {schema: wubi86_jidian}
+    - {schema: pinyin_simp}
+    - {schema: wubi98_ci}
+    - {schema: wubi98_U}
+    - {schema: wubi06}
+    - {schema: py}

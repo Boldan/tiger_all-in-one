@@ -1,0 +1,39 @@
+var:
+  last_build_time: 1739362965
+  option:
+    ascii_punct: false
+    emoji: false
+    extended_char: true
+    extended_charset: true
+    full_shape: false
+    mars: false
+    prediction: true
+    simplification: false
+    tiger_spelling.lv1: false
+    tiger_spelling.lv2: false
+    tiger_spelling.lv3: false
+    tiger_spelling.lv4: false
+    tiger_spelling.off: true
+    traditionalization: false
+  previously_selected_schema: tiger_phrases
+  schema_access_time:
+    98wb: 1586761735
+    PY_c: 1737110591
+    easy_en: 1735627530
+    pinyin_simp: 1737110659
+    py: 1707410034
+    tiger: 1737246160
+    tiger_code: 1735621739
+    tiger_code_52p: 1735979686
+    tiger_codes: 1737917692
+    tiger_oni: 1736693609
+    tiger_phrase: 1737917934
+    tiger_phrase_chord: 1735813661
+    tiger_phrases: 1739100651
+    tigress: 1739013457
+    wb_spelling: 1707410036
+    wubi06: 1737110696
+    wubi86_jidian: 1737110644
+    wubi98_U: 1737110714
+    wubi98_ci: 1737110675
+    wubi98_dz: 1707410038
