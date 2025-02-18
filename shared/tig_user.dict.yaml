@@ -1,0 +1,23 @@
+# Rime dictionary
+# encoding: utf-8
+# CC-BY-4.0
+
+---
+name: tig_user
+version: "2024.11.31"
+sort: by_weight
+columns:
+  - text
+  - code
+  - weight
+encoder:
+  rules:
+    - length_equal: 2
+      formula: "AaAbBaBb"
+    - length_equal: 3
+      formula: "AaBaCaCb"
+    - length_in_range: [4, 999]
+      formula: "AaBaCaZa"
+...
+
+https://dav.jianguoyun.com/dav/	jgy	3
