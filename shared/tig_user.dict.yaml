@@ -19,5 +19,3 @@ encoder:
     - length_in_range: [4, 999]
       formula: "AaBaCaZa"
 ...
-
-https://dav.jianguoyun.com/dav/	jgy	3
